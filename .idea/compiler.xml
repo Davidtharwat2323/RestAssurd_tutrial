@@ -9,8 +9,5 @@
         <module name="Selenuim4" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Rest-assured" target="18" />
-    </bytecodeTargetLevel>
   </component>
 </project>
