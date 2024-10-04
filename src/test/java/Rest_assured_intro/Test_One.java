@@ -48,7 +48,7 @@ public class Test_One {
                 then()
                 .assertThat().statusCode(200).
                 log().body();
-        System.out.println("New Changes to push to get");
+
     }
 
 
